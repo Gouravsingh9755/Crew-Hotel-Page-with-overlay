@@ -1,0 +1,138 @@
+*{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+
+html, body{
+
+    height: 100%;
+    width: 100%;
+
+}
+
+.circle1{
+
+    background:aliceblue;
+    height: 100%;
+    width: 100%;
+
+}
+
+.overlay{
+    height: 100%;
+    width: 45%;
+    background: #1616ad7f;
+    position: absolute;
+    bottom: 0%;
+
+}
+
+.B1{
+    padding: 2px 15px;
+    position: absolute;
+    top: 40%;
+    left: 39.9%;
+    background-color: aliceblue;
+    color: #1616adcf;
+    border: none;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.B2{
+
+    position: absolute;
+    top: 46%;
+    left: 40.5%;
+    background: transparent;
+    color: aliceblue;
+    font-weight: 600;
+    border: none;
+
+
+
+}
+.square2{
+
+    background:rgb(231, 235, 238);
+    height: 55%;
+    width: 27%;
+    position: absolute;
+    bottom: 25%;
+    left: 60%;
+border-radius: 5px;
+    box-shadow: 0 0 10px rgb(41, 108, 159);
+
+}
+
+h1{
+
+    font-family: monospace;
+    letter-spacing: 10px;
+    font-size: 30px;
+    font-weight: 900;
+    position: absolute;
+    bottom: 85%;
+    left: 37%;
+
+
+}
+
+h5{
+position: absolute;
+top: 14%;
+left: 36%;
+font-size: 10px;
+
+
+}
+
+.input1{
+position: absolute;
+top: 35%;
+left: 23%;
+padding: 2px 17px;
+border: none;
+border-bottom: 1px solid #1616adcf;
+background-color: rgb(231, 235, 238);;
+
+}
+
+.input2{
+    position: absolute;
+    top: 50%;
+    left: 23%;
+    padding: 2px 17px;
+border: none;
+border-bottom: 1px solid #1616adcf;
+background-color: rgb(231, 235, 238);
+    
+}
+
+.B3{
+position: absolute;
+top: 75%;
+left: 6%;
+word-spacing: 2px;
+letter-spacing: 2px;
+font-weight: 200;
+padding: 2% 30%;
+box-shadow:0  2px #1616adcf;
+
+
+}
+
+.img1{
+position: absolute;
+top: 33%;
+left: 13%;
+
+}
+
+.img2{
+    position: absolute;
+    top: 48%;
+    left: 13%;
+    
+    }
